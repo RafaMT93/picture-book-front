@@ -1,0 +1,6 @@
+.menu {
+  background: #000 repeat left top;
+  height: 100%;
+  position: fixed;
+  width: 6rem;
+}
